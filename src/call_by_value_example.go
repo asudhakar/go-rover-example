@@ -107,17 +107,17 @@ package main
 //	//var secondRoverYCoOrdinate int
 //	//var secondRoverDirection string
 //	//fmt.Scan(&secondRoverXCoOrdinate, &secondRoverYCoOrdinate, &secondRoverDirection)
-//	//
-//	//fmt.Println("Enter the Series of instructions to move rover in plateau")
-//	//var secondRoverInput string
-//	//fmt.Scan(&secondRoverInput)
-//
-//
-//	operateRover(firstRoverXCoOrdinate, firstRoverYCoOrdinate, getDirectionInInteger(firstRoverDirection), firstRoverInput)
-//	//r2 := rover{secondRoverXCoOrdinate, secondRoverYCoOrdinate, getDirectionInInteger(secondRoverDirection)}
-//	//operateRover(r2, secondRoverInput)
-//	//printResults(r2)
-//
-//}
-//
-//
+////	//
+////	//fmt.Println("Enter the Series of instructions to move rover in plateau")
+////	//var secondRoverInput string
+////	//fmt.Scan(&secondRoverInput)
+////
+////
+////	operateRover(firstRoverXCoOrdinate, firstRoverYCoOrdinate, getDirectionInInteger(firstRoverDirection), firstRoverInput)
+////	//r2 := rover{secondRoverXCoOrdinate, secondRoverYCoOrdinate, getDirectionInInteger(secondRoverDirection)}
+////	//operateRover(r2, secondRoverInput)
+////	//printResults(r2)
+////
+////}
+////
+////
